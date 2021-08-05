@@ -196,9 +196,8 @@ footer{
      width: 77%;
     }
     .footer{
-      float: inline-end;
-      padding: 5px;
-      overflow: hidden;
+      font: size 5vw;
+      width: 100%;
     }
     .flex-container1{
       display: block;

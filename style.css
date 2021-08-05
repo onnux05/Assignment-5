@@ -196,7 +196,7 @@ footer{
      width: 77%;
     }
     .footer{
-      float: inline-start;
+      float: inline-end;
       padding: 5px;
       overflow: hidden;
     }
